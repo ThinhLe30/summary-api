@@ -1,0 +1,5 @@
+flask
+transformers
+beautifulsoup4
+flask-cors
+transformers[torch]
